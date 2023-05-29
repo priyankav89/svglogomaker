@@ -26,9 +26,14 @@ node index.js is used to test this application
  
 ## SCREENSHOTS
 
-sample screenshot of svg logo :
+sample screenshot of logo.svg and SVG logo :
 
-![screenshot](./Images/screenshot-1.png)
+![screenshot](./Images/svglogo1.png)
+
+
+sample screenshot of logo.svg and SVG logo :
+
+![screenshot](./Images/svglogo2.png)
 
 
 ## WALKTHROUGH VIDEO 
