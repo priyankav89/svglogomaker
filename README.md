@@ -1,5 +1,4 @@
 # SVG LOGO MAKER
-[![License](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
 ## DESCRIPTION
 
@@ -35,4 +34,3 @@ node index.js is used to test this application
 ## LICENSE
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
