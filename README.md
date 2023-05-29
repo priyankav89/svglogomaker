@@ -19,13 +19,10 @@ When the user entered input for all the prompts, then the user SVG file is creat
 
 When the user the `logo.svg` file in a browser,then the user shown a 300x200 pixel image that matches the criteria I entered.
 
-## INSTALATION 
-
-inquirer 8.2.4
 
 ## TESTING
 
-node index.js
+node index.js is used to test this application
  
 ## SCREENSHOTS
 
