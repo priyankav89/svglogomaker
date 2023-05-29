@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # SVG LOGO MAKER
 
 ## DESCRIPTION
@@ -28,6 +26,15 @@ node index.js is used to test this application
  
 ## SCREENSHOTS
 
+sample screenshot of svg logo :
+
+[!Screenshot](./Assets/screenshot-1.png)
+
+
+sample log.svg file and logo:
+
+[!Screenshot](./Assets/screenshot-2.png)
+
 
 ## WALKTHROUGH VIDEO 
 
@@ -37,4 +44,3 @@ https://github.com/priyankav89/svglogomaker/assets/127457597/e933f38f-c93a-446a-
 ## LICENSE
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
->>>>>>> origin/main
