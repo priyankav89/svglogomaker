@@ -29,7 +29,7 @@ node index.js is used to test this application
 
 ## WALKTHROUGH VIDEO 
 
-
+https://github.com/priyankav89/svglogomaker/assets/127457597/e933f38f-c93a-446a-a313-7d3681bb2cee
 
 
 ## LICENSE
